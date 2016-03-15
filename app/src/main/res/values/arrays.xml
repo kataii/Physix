@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pageName">
+        <item>ເວັກເຕີ</item>
+        <item>ການເຄື່ອນທີ່ໜຶ່ງມິຕິ</item>
+        <item>ການເຄື່ອນທີ່ສອງມິຕິ</item>
+        <item>ກົດເກນການເຄື່ອນທີ່ຂອງນິວເຕີນ</item>
+        <item>ການນຳໃຊ້ກົດເກນການເຄື່ອນທີ່ຂອງນິວເຕີນ</item>
+    </string-array>
+</resources>
