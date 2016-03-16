@@ -8,4 +8,12 @@
         <item>ການນຳໃຊ້ກົດເກນການເຄື່ອນທີ່ຂອງນິວເຕີນ</item>
         <item>ແຮງງານ ແລະ ພະລັງງານ</item>
     </string-array>
+    <string-array name="imageName">
+        <item>R.drawable.arrows</item>
+        <item>R.drawable.arrows</item>
+        <item>R.drawable.arrows</item>
+        <item>R.drawable.arrows</item>
+        <item>R.drawable.arrows</item>
+        <item>R.drawable.arrows</item>
+    </string-array>
 </resources>
