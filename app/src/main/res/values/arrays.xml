@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pageName">
+        <item>ເວັກເຕີ</item>
+        <item>ການເຄື່ອນທີ່ໜຶ່ງມິຕິ</item>
+        <item>ການເຄື່ອນທີ່ສອງມິຕິ</item>
+        <item>ກົດເກນການເຄື່ອນທີ່ຂອງນິວເຕີນ</item>
+        <item>ການນຳໃຊ້ກົດເກນການເຄື່ອນທີ່ຂອງນິວເຕີນ</item>
+        <item>ຄວາມແຮງປິ່ນ ແລະ ຄວາມດຸ່ນດ່ຽງຂອງວັດຖຸ</item>
+        <item>ແຮງງານ ແລະ ພະລັງງານ</item>
+        <item>ລັກສະນະຂອງວັດຖຸແຂງ ແລະ ວັດຖຸແຫຼວ</item>
+        <item>ລັກສະນະຂອງວກາສ</item>
+        <item>ອຸນຫະພູມ ແລະ ຄວາມຮ້ອນ</item>
+        <item>ການສັ່ນໄກວ ແລະ ຄື້ນ</item>
+        <item>ສຽງ</item>
+        <item>ໄຟຟ້າສະຖິດ</item>
+        <item>ກະແສໄັັ້າກົງ</item>
+    </string-array>
+    <integer-array name="imageName">
+        <item>@drawable/arrows</item>
+        <item>@drawable/arrows</item>
+        <item>@drawable/arrows</item>
+        <item>@drawable/arrows</item>
+        <item>@drawable/arrows</item>
+        <item>@drawable/arrows</item>
+    </integer-array>
+</resources>
