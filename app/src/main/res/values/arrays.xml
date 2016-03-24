@@ -14,7 +14,7 @@
         <item>ການສັ່ນໄກວ ແລະ ຄື້ນ</item>
         <item>ສຽງ</item>
         <item>ໄຟຟ້າສະຖິດ</item>
-        <item>ກະແສໄັັ້າກົງ</item>
+        <item>ກະແສໄຟຟ້າກົງ</item>
     </string-array>
     <integer-array name="imageName">
         <item>@drawable/arrows</item>
